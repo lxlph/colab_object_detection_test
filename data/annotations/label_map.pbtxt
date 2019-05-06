@@ -1,0 +1,76 @@
+item {
+  id: 1
+  name: 'Haferflocken'
+}
+item {
+  id: 2
+  name: 'Apfel'
+}
+item {
+  id: 3
+  name: 'Tomate'
+}
+item {
+  id: 4
+  name: 'Zwiebel'
+}
+item {
+  id: 5
+  name: 'Butter'
+}
+item {
+  id: 6
+  name: 'Senf'
+}
+item {
+  id: 7
+  name: 'Eier'
+}
+item {
+  id: 8
+  name: 'Kichererbsen'
+}
+item {
+  id: 9
+  name: 'Milch'
+}
+item {
+  id: 10
+  name: 'Suesskartoffel'
+}
+item {
+  id: 11
+  name: 'Gurke'
+}
+item {
+  id: 12
+  name: 'Frischkaese'
+}
+item {
+  id: 13
+  name: 'Brot'
+}
+item {
+  id: 14
+  name: 'Penne'
+}
+item {
+  id: 15
+  name: 'Marmelade'
+}
+item {
+  id: 16
+  name: 'Reis'
+}
+item {
+  id: 17
+  name: 'Speck'
+}
+item {
+  id: 18
+  name: 'Avocado'
+}
+item {
+  id: 19
+  name: 'Banane'
+}
